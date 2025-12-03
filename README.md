@@ -1,2 +1,4 @@
 Diagramme de cas d'utilisation général 
-<img width="200" height="500" alt="stage2" src="https://github.com/user-attachments/assets/223b2b77-86a2-467d-bda2-aa990a3a6ecd" /> <img width="350" height="600" alt="9" src="https://github.com/user-attachments/assets/1fcca400-10df-4c6b-9b10-202bc0f5af1b" /> <img width="350" height="600" alt="10" src="https://github.com/user-attachments/assets/b8239194-fcd4-4ba8-ad16-7827889411e3" />
+<img width="610" height="392" alt="diag" src="https://github.com/user-attachments/assets/9a85cd2c-aefb-4fc6-ae5f-5f5da7f38708" />
+
+<img width="200" height="500" alt="stage2" src="https://github.com/user-attachments/assets/223b2b77-86a2-467d-bda2-aa990a3a6ecd" /> <img width="350" height="600" alt="9" src="https://github.com/user-attachments/assets/1fcca400-10df-4c6b-9b10-202bc0f5af1b" /> <img width="200" height="600" alt="stage6" src="https://github.com/user-attachments/assets/53dd0af7-c48f-41f2-a131-28e78ecd32ea" /> <img width="350" height="600" alt="10" src="https://github.com/user-attachments/assets/b8239194-fcd4-4ba8-ad16-7827889411e3" />
